@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+Creo que todos nacemos con una curiosidad innata por todo lo que nos rodea. Sin embargo, al igual que sucede con la creatividad, esta capacidad puede alimentarse con el tiempo, o bien, ir desapareciendo poco a poco.
 
-You can use the [editor on GitHub](https://github.com/rachelcarmena/sigfredo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+¿Qué es lo que más ha alimentado mi curiosidad? Sin lugar a dudas, los ratos con mi abuelo materno se encuentran en el número uno de la lista.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi abuelo ejercía de abuelo, es decir, se sabía muchísimas historias.
 
-### Markdown
+Con mi abuelo conocí Madrid, sus museos y sus lugares más emblemáticos. Ir en coche, metro, autobús o caminando por Madrid con él era siempre muy entretenido. Sus historias no se repetían.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Todos los días se compraba el periódico y se fijaba en todo.
 
-```markdown
-Syntax highlighted code block
+> ¿Sabes a qué hora ha salido hoy el sol? Mira...
 
-# Header 1
-## Header 2
-### Header 3
+Y entonces empezaba a contarme las variaciones de hora durante el año. Sacaba un folio, un lápiz y me dibujaba la explicación.
 
-- Bulleted
-- List
+Y tenía una caligrafía preciosa. Me podía pasar horas mirando algo escrito por él.
 
-1. Numbered
-2. List
+También le fascinaba cómo iba creciendo la red del metro de Madrid. Recordaba perfectamente la evolución de las líneas y las historias asociadas a cada una de las ampliaciones. Así como también recordaba el primer Galerías Preciados, donde podías encontrar una misma prenda ya confeccionada en diferentes tallas - algo natural para los que hemos crecido con ese tipo de tiendas, pero nada habitual para mi abuelo sastre.
 
-**Bold** and _Italic_ and `Code` text
+Con mi abuelo cobraban vida esas enciclopedias de decenas de fascículos que suelen ser únicamente un elemento decorativo en muchos salones.
 
-[Link](url) and ![Image](src)
-```
+> Ven, vamos a buscar aquí...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Recuerdo que una vez le encontré hojeando un atlas en el salón. _¡El atlas! ¿Eso también lo miran las personas mayores?_, pensé.
 
-### Jekyll Themes
+> Abuelo, ¿qué estás buscando?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachelcarmena/sigfredo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> A veces me cuesta ubicar los lugares cuando escucho las noticias internacionales, porque hay países que han cambiado. Bueno, ¿y sabes que nuestro país también ha cambiado mucho? No era como te lo enseñan en el colegio...
 
-### Support or Contact
+Y empezaba una larga historia, de esas que tanto me gustaban.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Gracias abuelo**
+
+P.D. No le hicieron falta clases de mindfulness para comer con atención y saborear un pedazo de chocolate. Imposible olvidar lo mucho que disfrutaba con el chocolate y el dulce en general. Me encanta mantener viva su depurada técnica con el papel de una magdalena. Creo que no sólo alimentó mi curiosidad :)
+
+<!--
+## Algunas notas
+
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+-->
