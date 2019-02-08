@@ -17,7 +17,7 @@ Esta vez me resultaba hasta difícil hacer difusión pública de mi participaci�
 
 Justo esta semana, Pixar publicó el [cortometraje Purl](https://www.youtube.com/watch?v=B6uuIHpFkuo) que durante la primera parte parece responder SÍ a la pregunta del coloquio, aunque después todo cambia. Es un cortometraje que apuesta por la diversidad en las oficinas, pero... Pixar, disculpadme, voy a ser un poco crítica. El guión prometía y el objetivo es muy bueno, pero no me siento representada por un ovillo de lana rosa, ni con sus pertenencias en su primer día de trabajo. Veo demasiados estereotipos que me gustaría que empezáramos a romper. 
 
-Además, creo que la diversidad no sólo está relacionada con la presencia de mujeres, sino que va mucho más allá con la representación de generaciones, culturas, estatus sociales, ... y podría seguir. Por supuesto, entendiendo que también hay inclusión y que la voz de toda esa diversidad se escucha por igual. Pixar, lo siento, pero creo que no se ha conseguido representar del todo.
+Además, creo que la diversidad no sólo está relacionada con la presencia de mujeres, sino que va mucho más allá con la representación de generaciones, culturas, estatus sociales, ... y podría seguir. Por supuesto, entendiendo que también hay inclusión y que la voz de toda esa diversidad se escucha por igual.
 
 Esto me hace recordar el discurso de Emma de VLCTechHub, una de las organizadoras del evento, y que ella mismo describió como "broken heart". Fue de esos discursos que te ponen toda la piel de gallina. Me hizo pensar que si las empresas y los equipos que están modelando este nuevo mundo tecnológico no apuestan por la diversidad e inclusión, volveremos a perpetuar los mismos errores del mundo real.
 
