@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p, blockquoute, li, ul {
+    line-height: 1.7em;
+}
+
+h2, h3 {
+    color: #003c48;
+}
+
+#main_content_wrap h1 {
+    margin: 20px 0;
+}
+
+#main_content {
+    padding-top: 0;
+}
+
+#main_content_wrap {
+    background: white;
+}
+
+#navigation {
+    margin-top: 2.5em;
+}
+
+.copyright {
+    text-align: right;
+    font-weight: bold;
+}
+
+#header_wrap {
+    background: linear-gradient(to bottom, #005667, #003c48);
+}
+
+#footer_wrap {
+    background: linear-gradient(to top, #005667, #003c48);
+}

@@ -1,2 +1,14 @@
 theme: jekyll-theme-slate
-title: Gracias abuelo
+title: NOTAS
+collections:
+    posts:
+        title: Posts
+    books:
+        title: Libros
+        output: true
+    reflections:
+        title: Reflexiones
+        output: true
+    tributes:
+        title: Homenajes
+        output: true

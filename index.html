@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for collection in site.collections %}
+  <h2>{{ collection.title }}</h2>
+  
+  <ul>
+    {% for item in collection.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
