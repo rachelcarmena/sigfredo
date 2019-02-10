@@ -1,8 +1,8 @@
 ---
 layout: post
-asset-type: book
+asset-type: post
 title: Lecciones de vida por correspondencia
-description: Sobre las cartas que le escribió Séneca a su amigo Lucilio
+description: Sobre las cartas que Séneca escribió a su amigo Lucilio
 ---
 
 Cuando Séneca se retiró de la vida pública mantuvo una correspondencia con su amigo Lucilio que está llena de lecciones de vida:

@@ -1,8 +1,8 @@
 ---
 layout: post
-asset-type: tribute
+asset-type: post
 title: Gracias abuelo
-description: 
+description: Pequeño homenaje a mi abuelo materno 
 ---
 
 Creo que todos nacemos con una curiosidad innata por todo lo que nos rodea. Sin embargo, al igual que sucede con la creatividad, esta capacidad puede alimentarse con el tiempo, o bien, ir desapareciendo poco a poco.

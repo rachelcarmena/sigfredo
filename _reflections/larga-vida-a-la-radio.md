@@ -1,8 +1,8 @@
 ---
 layout: post
-asset-type: reflection
+asset-type: post
 title: Larga vida a la radio
-description: 
+description: Reflexión tras escuchar una tertulia
 ---
 
 Escuchaba hoy una tertulia en la radio donde unos invitados cuestionaban el futuro de la radio en directo alegando que el futuro estaba en los podcasts. Contaban que ya hay acuerdos de compañías de automóviles con Amazon para incluir el servicio de Alexa y poder solicitar lo que quieres escuchar mientras vas conduciendo. Por lo tanto, perdía interés la radio en directo.

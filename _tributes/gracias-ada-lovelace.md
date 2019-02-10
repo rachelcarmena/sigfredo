@@ -1,8 +1,8 @@
 ---
 layout: post
-asset-type: tribute
+asset-type: post
 title: Gracias Ada Lovelace
-description: 
+description: Celebrando el 11 de febrero de 2019 
 ---
 
 El título de este espacio más personal es un homenaje a la autora de las primeras contribuciones en informática junto a Charles Babbage. 
