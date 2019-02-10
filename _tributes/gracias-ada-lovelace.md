@@ -5,7 +5,7 @@ title: Gracias Ada Lovelace
 description: Celebrando el 11 de febrero de 2019 
 ---
 
-El título de este espacio más personal es un homenaje a la autora de las primeras contribuciones en informática junto a Charles Babbage. 
+El título de este espacio más personal es un homenaje a la autora de las primeras contribuciones en informática a mediados del siglo XIX junto a Charles Babbage. 
 
 Cuando Charles[^1] comenzó a viajar por Europa para explicar el proyecto de su máquina analítica, un ingeniero italiano llamado Luigi Menabrea decidió publicar un artículo en francés sobre ello.
 
