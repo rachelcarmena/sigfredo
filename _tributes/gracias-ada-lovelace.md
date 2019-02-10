@@ -1,7 +1,7 @@
 ---
 layout: post
 asset-type: tribute
-title: Gracias Ada
+title: Gracias Ada Lovelace
 description: 
 ---
 
