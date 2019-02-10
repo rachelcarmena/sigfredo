@@ -19,7 +19,7 @@ Justo esta semana, Pixar publicó el [cortometraje Purl](https://www.youtube.com
 
 Además, creo que la diversidad no sólo está relacionada con la presencia de mujeres, sino que va mucho más allá con la representación de generaciones, culturas, estatus sociales, ... y podría seguir. Por supuesto, entendiendo que también hay inclusión y que la voz de toda esa diversidad se escucha por igual.
 
-Esto me hace recordar el discurso de Emma de VLCTechHub, una de las organizadoras del evento, y que ella mismo describió como "broken heart". Fue de esos discursos que te ponen toda la piel de gallina. Me hizo pensar que si las empresas y los equipos que están modelando este nuevo mundo tecnológico no apuestan por la diversidad e inclusión, volveremos a perpetuar los mismos errores del mundo real.
+Esto me hace recordar el discurso de Emma de VLCTechHub, una de las organizadoras del evento, y que ella mismo describió como "broken heart". Fue de esos discursos que te ponen toda la piel de gallina. Me hizo pensar que si las empresas y los equipos que están modelando este nuevo mundo tecnológico no apuestan por la diversidad e inclusión, volveremos a perpetuar los mismos errores.
 
 ## El formato del coloquio
 
