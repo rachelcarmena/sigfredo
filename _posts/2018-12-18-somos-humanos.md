@@ -21,7 +21,7 @@ En otras ocasiones, hacemos cosas que nos hacen menos humanos.
 
 ## Somos seres creativos
 
-Una preocupación común de los managers es cómo organizar los equipos de desarrollo y la inseguridad les lleva a casarse con algún procedimiento y llevarlo a rajatabla sin permitir ni un mínimo de variación. Cuántas más siglas, conceptos y reglas tenga el procedimiento, más seguros se sienten.
+Una preocupación común de los managers es cómo organizar los equipos de desarrollo y la inseguridad les lleva a casarse con algún procedimiento y llevarlo a rajatabla sin permitir ni un mínimo de variación. Cuantas más siglas, conceptos y reglas tenga el procedimiento, más seguros se sienten.
 
 Sin embargo, los procedimientos burocráticos y cerrados terminan aniquilando el poder creativo de los equipos de desarrollo. Y hablamos de poder creativo, porque la creatividad tiene un gran poder de transformación, avance y mejora.
 
