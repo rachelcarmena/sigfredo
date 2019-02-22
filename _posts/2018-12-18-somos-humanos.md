@@ -69,7 +69,7 @@ Datos y más datos que se recogen sin control y que incomodan a los que tienen q
 
 ¿Por qué no empezamos pensando qué datos necesitamos o qué información queremos extraer de esos datos?
 
-Recuerdo que hace poco me preguntaban cómo solicitaría el sexo en un formulario de usuario. No me gusta responder con otra pregunta, pero no pude evitarlo: “¿por qué solicitáis ese dato? ¿para qué lo vais a utilizar?”. Fue entonces cuando se dieron cuenta de que no necesitaban pedir ese dato. Problema resuelto ;)
+Recuerdo que hace poco me preguntaban cómo solicitaría el género en un formulario de usuario. No me gusta responder con otra pregunta, pero no pude evitarlo: “¿por qué solicitáis ese dato? ¿para qué lo vais a utilizar?”. Fue entonces cuando se dieron cuenta de que no necesitaban pedir ese dato. Problema resuelto ;)
 
 ## Pensamos y sentimos
 
