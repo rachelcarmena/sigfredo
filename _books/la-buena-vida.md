@@ -7,7 +7,7 @@ description: Notas sobre el libro de Ética para Amador de Fernando Savater
 
 Aunque no tenga poco más de 15 años ni menos de 18 como espera **Fernando Savater**, he disfrutado de su **Ética para Amador** donde estimula el desarrollo de _librepensadores_.
 
-Hay que cosas que nos suceden y que no dependen de nosotros, pero aún así gozamos de libertad:
+Hay cosas que nos suceden y que no dependen de nosotros, pero aún así gozamos de libertad:
 
 > No somos libres de elegir lo que nos pasa (...), sino libres para responder a lo que nos pasa de tal o cual modo.
 
