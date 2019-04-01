@@ -12,3 +12,6 @@ collections:
     tributes:
         title: Homenajes
         output: true
+    films:
+        title: Películas
+        output: true
