@@ -3,24 +3,29 @@
 
 @import "{{ site.theme }}";
 
+:root {
+    --main-color: #363636;
+}
+
 p, blockquoute, li, ul {
     line-height: 1.7em;
 }
 
-h2, h3 {
-    color: #003c48;
+h1, h2, h3 {
+    color: var(--main-color);
 }
 
 #main_content_wrap h1 {
-    margin: 20px 0;
+    margin: 0;
 }
 
 #main_content {
-    padding-top: 0;
+    padding: 1em 2em;
 }
 
 #main_content_wrap {
     background: white;
+    border-top: 0;
 }
 
 #navigation {
@@ -33,9 +38,34 @@ h2, h3 {
 }
 
 #header_wrap {
-    background: linear-gradient(to bottom, #005667, #003c48);
+    background: white;
+}
+
+#header_wrap img {
+    border: 0;
+    box-shadow: none;
 }
 
 #footer_wrap {
-    background: linear-gradient(to top, #005667, #003c48);
+    background: var(--main-color);
+}
+
+.note {
+    border: 3px solid var(--main-color);
+    margin: 0.8em 0em;
+    font-size: 1.3em;
+}
+
+.note a {
+    padding: 0.6em 0.8em;
+    display: block;
+    text-decoration: none;
+    background-color: var(--main-color);
+    color: white;
+}
+
+.note:hover, .note:focus, .note a:hover, .note a:focus {
+    transition: background-color 0.5s;
+    color: var(--main-color);
+    background-color: white;
 }
